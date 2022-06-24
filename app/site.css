@@ -40,7 +40,7 @@ a{
 }
 
 .home .download-link-box{
-    resize: vertical;
+    resize: 50px;
 }
 
 .home .footer{
