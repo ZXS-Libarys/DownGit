@@ -1,4 +1,4 @@
-<h1> <img src="https://github.com/MinhasKamal/DownGit/raw/master/res/images/downgit.png" width="20" height=auto /> DownGit </h1>
+<h1> <img src="https://github.com/MinhasKamal/DownGit/raw/master/res/images/downgit.png" width="20" height=auto /> UpGit </h1>
 
 #### Create GitHub Resource Download Link
 
@@ -6,7 +6,7 @@ With this tool you can directly download or create download link to any GitHub *
 
 ### Website
 
-[DownGit ↑](https://minhaskamal.github.io/DownGit)
+[UpGit ↑](https://zxs-libarys.github.io/upgit/)
 
 ### How to Use?
 
